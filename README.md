@@ -1,0 +1,1 @@
+This is a simple server with REST API. It has basic functional of processing different request's methods with an artificial data base of users: creates(POST), updates(PUT), deletes(DELETE) and responds(GET) with one user or with the array of all users.
